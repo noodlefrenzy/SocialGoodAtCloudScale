@@ -37,7 +37,7 @@ A list of the other open-source tools referenced in the deck:
 - [GraphQL](http://graphql.org/)
 - [MapZen](https://mapzen.com/)
     - But [they are shutting down](https://mapzen.com/blog/shutdown/)
-    - So [we're migrating](https://mapzen.com/blog/migration/)
+    - So [we've migrated](https://www.mapbox.com/)
 - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 - [Microsoft Translator](https://www.microsoft.com/en-us/translator/translatorapi.aspx)
 - [DataBricks](https://databricks.com/)
